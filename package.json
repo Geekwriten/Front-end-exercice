@@ -1,0 +1,14 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio student",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "NoaROUGIER",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
